@@ -17,4 +17,4 @@ A resolução original do exercício foi escrita na linguagem **JavaScript**. A 
 ![Espiral de Ulam](./images/image-2.png)
 
 ## Vídeo
-[espiral_de_ulam.mp4](./videos/espiral_de_ulam.mp4)
+[Gif Espiral de Ulam](./videos/espiral-de-ulam.gif)
