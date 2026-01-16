@@ -16,5 +16,5 @@ A resolução original do exercício foi escrita na linguagem **JavaScript**. A 
 ### Desenho Colorido
 ![Espiral de Ulam](./images/image-2.png)
 
-## Vídeo
+### Vídeo
 [Gif Espiral de Ulam](./videos/espiral-de-ulam.gif)
