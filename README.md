@@ -12,9 +12,9 @@ A resolução original do exercício foi escrita na linguagem **JavaScript**. A 
 
 ## Capturas de Tela
 ### Desenho Monocromático
-![Espiral de Ulam](images\image-1.png)
+![Espiral de Ulam](images/image-1.png)
 ### Desenho Colorido
-![Espiral de Ulam](images\image-2.png)
+![Espiral de Ulam](images/image-2.png)
 
 ## Vídeo
 [espiral_de_ulam.mp4](./videos/demonstracao.mp4)
