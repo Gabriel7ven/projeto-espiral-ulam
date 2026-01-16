@@ -1,6 +1,6 @@
 # Projeto Espiral de Ulam
 
-> Objetivo: Desenvolvi este projeto com o propósito de aplicar o conhecimento que adiquiri sobre números primos. 
+**Objetivo:** Desenvolvi este projeto com o propósito de aplicar o conhecimento que adiquiri sobre números primos. 
 
 A ideia surgiu depois que resolvi o terceiro desafio do **Projeto Euler**, no site do **freeCodeCamp**. Este desafio requer que encontremos o maior fator primo de um dado número.
 
